@@ -6,7 +6,7 @@ An extended version of the open-source [Block Breaker / Breakout game](https://g
 
 <p align="center">
   <img
-    src="./assets/screenshots/gameplay.png"
+    src="assets/screenshots/gameplay.png"
     alt="Block Breaker gameplay showcasing special bricks and scoring"
     width="800"
   />
