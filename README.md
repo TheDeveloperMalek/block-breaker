@@ -2,6 +2,16 @@
 
 An extended version of the open-source [Block Breaker / Breakout game](https://github.com/rust-adventure/block-breaker), originally created by [Christopher Biscardi](https://github.com/ChristopherBiscardi). This contribution focuses on a more modular codebase and additional arcade mechanics while aiming to preserve the original gameplay.
 
+## Gameplay Preview
+
+<p align="center">
+  <img
+    src="./assets/screenshots/gameplay.png"
+    alt="Block Breaker gameplay showcasing special bricks and scoring"
+    width="800"
+  />
+</p>
+
 ## How to Play
 
 - **Move the paddle:** Use the **Left** and **Right arrow keys** to move horizontally.
